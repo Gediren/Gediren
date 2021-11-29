@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a background in basic development. I'm getting back into it after quite a few years away, and all of my projects will be hosted here.<br>
+Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a background in basic development. I'm getting back into it after quite a few years away, and all of my projects will be stored and managed here.<br>
 <br>
 
 <a href="#">
@@ -20,3 +20,5 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 ## Links
 <a href="http://compsci.ca/holtsoft/">Turing IDE</a><br>
 <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+<a href="https://netbeans.apache.org/">Apache NetBeans</a>
+<a href="https://www.oracle.com/java/technologies/downloads/">Oracle JDK 17</a>
