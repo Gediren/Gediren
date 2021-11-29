@@ -19,6 +19,6 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 
 ## Links
 <a href="http://compsci.ca/holtsoft/">Turing IDE</a><br>
-<a href="https://code.visualstudio.com/">Visual Studio Code</a>
-<a href="https://netbeans.apache.org/">Apache NetBeans</a>
+<a href="https://code.visualstudio.com/">Visual Studio Code</a><br>
+<a href="https://netbeans.apache.org/">Apache NetBeans</a><br>
 <a href="https://www.oracle.com/java/technologies/downloads/">Oracle JDK 17</a>
