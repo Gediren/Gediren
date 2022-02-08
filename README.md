@@ -19,7 +19,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 <br>
 
 ## Useful Links
-<a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> - The best way to start coding.
+<a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> - The best way to start coding.<br>
 <a href="http://compsci.ca/holtsoft/">Turing</a> - Great first Windows programming language.<br>
 <a href="https://code.visualstudio.com/">Visual Studio Code</a> - Fast and simple multi-languace, multi-platform IDE.<br>
 <a href="https://www.hackingwithswift.com/">Hacking with Swift</a> - Learn to code in Swift.
