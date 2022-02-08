@@ -9,13 +9,13 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 </a>
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
-💻 <b>Currently working on:</b> Organizing and uploading my old code.<br>
-💡 <b>What I'm learning:</b> Swift Playgrounds!<br>
-📚 <b>What I'm reading:</b> Star Wars: From a Certain Point of View.<br>
-🎮 <b>What I'm playing:</b> Minecraft<br>
-📺 <b>What I'm watching:</b> Star Wars: Rebels<br>
-🎵 <b>I've been listening to:</b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Royal Blood - Typhoons</a><br>
-🎙️ <b>Current favourite podcast:</b> <a href="https://www.theminimalists.com/podcast/">The Minimalist Podcast</a><br>
+💻 <b>Currently working on: </b>Organizing and uploading my old code.<br>
+💡 <b>What I'm learning: </b>Swift Playgrounds!<br>
+📚 <b>What I'm reading: </b>Star Wars The Old Republic: Revan<br>
+🎮 <b>What I'm playing: </b>GTA Online<br>
+📺 <b>What I'm watching: </b>James May: Our Man in Japan<br>
+🎵 <b>I've been listening to: </b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Royal Blood - Typhoons</a><br>
+🎙️ <b>Current favourite podcast: </b> <a href="https://hellofromthemagictavern.com/">Hello from the Magic Tavern</a><br>
 <br>
 
 ## Useful Links
