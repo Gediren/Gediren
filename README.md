@@ -11,11 +11,11 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
 💻 <b>Currently working on: </b>A new project called "Butler"...<br>
 💡 <b>What I'm learning: </b>C#<br>
-📚 <b>What I'm reading: </b>Scott Pilgrim<br>
-🎮 <b>What I'm playing: </b>Animal Crossing: New Horizons<br>
+📚 <b>What I'm reading: </b>Star Wars: Master and Apprentice<br>
+🎮 <b>What I'm playing: </b>Lego Star Wars: The Skywalker Saga<br>
 📺 <b>What I'm watching: </b>James May: Our Man in Japan<br>
 🎵 <b>I've been listening to: </b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Royal Blood - Typhoons</a><br>
-🎙️ <b>Current favourite podcast: </b> <a href="https://hellofromthemagictavern.com/">Hello from the Magic Tavern</a><br>
+🎙️ <b>Current favourite podcast: </b> <a href="https://selfhosted.show/">Self Hosted</a><br>
 <br>
 
 ## Useful Links
