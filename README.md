@@ -10,7 +10,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
 💻 <b>Currently working on: </b>A new project called "Butler"...<br>
-💡 <b>What I'm learning: </b>C#<br>
+💡 <b>What I'm learning: </b>Python<br>
 📚 <b>What I'm reading: </b>Star Wars: Master and Apprentice<br>
 🎮 <b>What I'm playing: </b>Lego Star Wars: The Skywalker Saga<br>
 📺 <b>What I'm watching: </b>James May: Our Man in Japan<br>
