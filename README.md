@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a background in basic development. I'm getting back into it after quite a few years away, and all of my projects will be stored and managed here.<br>
+Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a background in basic development. All of my projects and exercises will be stored here.<br>
 <br>
 
 <a href="#">
@@ -9,13 +9,13 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 </a>
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
-💻 <b>Currently working on: </b>A new project called "Butler"...<br>
-💡 <b>What I'm learning: </b>Python<br>
-📚 <b>What I'm reading: </b>Star Wars: Master and Apprentice<br>
-🎮 <b>What I'm playing: </b>Lego Star Wars: The Skywalker Saga<br>
-📺 <b>What I'm watching: </b>James May: Our Man in Japan<br>
-🎵 <b>I've been listening to: </b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Royal Blood - Typhoons</a><br>
-🎙️ <b>Current favourite podcast: </b> <a href="https://selfhosted.show/">Self Hosted</a><br>
+💻 <b>Currently working on: </b>Reorganizing my projects.<br>
+💡 <b>What I'm learning: </b>Turing<br>
+📚 <b>What I'm reading: </b>Sttack on Titan<br>
+🎮 <b>What I'm playing: </b>Metroid Prime Remastered<br>
+📺 <b>What I'm watching: </b>The Mandalorian: Season 3<br>
+🎵 <b>I've been listening to: </b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Nickelback</a><br>
+🎙️ <b>Current favourite podcast: </b> <a href="https://selfhosted.show/">Distractible</a><br>
 <br>
 
 ## Useful Links
