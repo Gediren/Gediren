@@ -9,9 +9,9 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 </a>
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
-💻 <b>Currently working on: </b>Reorganizing my projects.<br>
+💻 <b>Currently working on: </b>A small text-based adventure game made entirely in Turing.<br>
 💡 <b>What I'm learning: </b>Turing<br>
-📚 <b>What I'm reading: </b>Sttack on Titan<br>
+📚 <b>What I'm reading: </b>Attack on Titan<br>
 🎮 <b>What I'm playing: </b>Metroid Prime Remastered<br>
 📺 <b>What I'm watching: </b>The Mandalorian: Season 3<br>
 🎵 <b>I've been listening to: </b> <a href="https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi?si=0axtTv-MRx-es-PPEyi66g">Nickelback</a><br>
