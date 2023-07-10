@@ -13,7 +13,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 💡 <b>What I'm learning: </b>Privacy and security<br>
 📚 <b>What I'm reading: </b>Deathnote<br>
 🎮 <b>What I'm playing: </b>Metroid Prime Remastered<br>
-📺 <b>What I'm watching: </b>The Mandalorian: Season 3<br>
+📺 <b>What I'm watching: </b>Mr. Robot<br>
 🎵 <b>I've been listening to: </b>Metal<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://store.distractiblepodcast.com/">Distractible</a><br>
 <br>
