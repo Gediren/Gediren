@@ -10,11 +10,11 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
 💻 <b>Currently working on: </b>A small text-based adventure game made entirely in Turing.<br>
-💡 <b>What I'm learning: </b>Privacy and security<br>
-📚 <b>What I'm reading: </b>Deathnote<br>
-🎮 <b>What I'm playing: </b>Metroid Prime Remastered<br>
-📺 <b>What I'm watching: </b>Mr. Robot<br>
-🎵 <b>I've been listening to: </b>Metal<br>
+💡 <b>What I'm learning: </b>Shell scripting<br>
+📚 <b>What I'm reading: </b>My Hero Academia<br>
+🎮 <b>What I'm playing: </b>Factorio<br>
+📺 <b>What I'm watching: </b>Ahsoka<br>
+🎵 <b>I've been listening to: </b>Parkway Drive & Dragonforce<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://store.distractiblepodcast.com/">Distractible</a><br>
 <br>
 
