@@ -14,12 +14,14 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 📚 <b>What I'm reading: </b>My Hero Academia<br>
 🎮 <b>What I'm playing: </b>Factorio<br>
 📺 <b>What I'm watching: </b>Ahsoka<br>
-🎵 <b>I've been listening to: </b>Parkway Drive & Dragonforce<br>
+🎵 <b>I've been listening to: </b>Taylor Swift<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://store.distractiblepodcast.com/">Distractible</a><br>
 <br>
 
 ## Useful Links
 <a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> - The best way to start coding.<br>
-<a href="http://compsci.ca/holtsoft/">Turing</a> - Great first programming language.<br>
+<a href="http://compsci.ca/holtsoft/">Turing</a> - Fantastic first programming language.<br>
 <a href="https://code.visualstudio.com/">Visual Studio Code</a> - Fast and simple multi-language, multi-platform IDE.<br>
-<a href="https://www.hackingwithswift.com/">Hacking with Swift</a> - Learn to code in Swift.
+<a href="https://www.hackingwithswift.com/">Hacking with Swift</a> - Learn to code in Swift.<br>
+<a href="https://developer.apple.com/tutorials/app-dev-training/">iOS App Dev Tutorials</a> - Get started building iOS apps.<br>
+<a href="https://leetcode.com">LeetCode</a> - Coding exercises to keep you sharp.<br>
