@@ -10,12 +10,12 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
 💻 <b>Currently working on: </b>A small text-based adventure game made entirely in Turing.<br>
-💡 <b>What I'm learning: </b>Shell scripting<br>
-📚 <b>What I'm reading: </b>My Hero Academia<br>
+💡 <b>What I'm learning: </b>Swift<br>
+📚 <b>What I'm reading: </b>Battle Angel Alita<br>
 🎮 <b>What I'm playing: </b>Factorio<br>
-📺 <b>What I'm watching: </b>Ahsoka<br>
+📺 <b>What I'm watching: </b>Brooklyn Nine Nine<br>
 🎵 <b>I've been listening to: </b>Taylor Swift<br>
-🎙️ <b>Current favourite podcast: </b> <a href="https://store.distractiblepodcast.com/">Distractible</a><br>
+🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
 <br>
 
 ## Useful Links
