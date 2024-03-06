@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a little experience with basic coding. All of my projects and exercises will be stored here.<br>
+Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a little experience with basic coding. All of my projects and exercises will be stored here, much of it private and archival in nature. Things like my scripts repo, however, will be left public in the hopes that someone might find them useful.<br>
 <br>
 
 <a href="#">
@@ -8,20 +8,19 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gediren&layout=compact" />
 </a>
 
+### What I'm up to now
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the graph. -->
-💻 <b>Currently working on: </b>A small text-based adventure game made entirely in Turing.<br>
-💡 <b>What I'm learning: </b>Swift<br>
+💻 <b>Currently working on: </b>Reorganizing my projects.<br>
+💡 <b>What I'm learning about: </b>Network security<br>
 📚 <b>What I'm reading: </b>Battle Angel Alita<br>
 🎮 <b>What I'm playing: </b>Factorio<br>
-📺 <b>What I'm watching: </b>Brooklyn Nine Nine<br>
+📺 <b>What I'm watching: </b>Doctor Who<br>
 🎵 <b>I've been listening to: </b>Taylor Swift<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
-<br>
 
-## Useful Links
+
+### Useful Links
 <a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> - The best way to start coding.<br>
 <a href="http://compsci.ca/holtsoft/">Turing</a> - Fantastic first programming language.<br>
 <a href="https://code.visualstudio.com/">Visual Studio Code</a> - Fast and simple multi-language, multi-platform IDE.<br>
-<a href="https://www.hackingwithswift.com/">Hacking with Swift</a> - Learn to code in Swift.<br>
-<a href="https://developer.apple.com/tutorials/app-dev-training/">iOS App Dev Tutorials</a> - Get started building iOS apps.<br>
 <a href="https://leetcode.com">LeetCode</a> - Coding exercises to keep you sharp.<br>
