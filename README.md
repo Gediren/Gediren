@@ -1,23 +1,26 @@
 <div align=center>
 
-# About Me
+  # About Me
+
+  <a href="#">
+    <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true"/>
+  </a><br>
 </div>
-
+<br>
 <a href="#">
-  <img align="left" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true"/>
+  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=matthewwaldeck&exclude_repo=mwaldeck-stats&langs_count=8"/>
 </a>
 
-I'm a graduate of the network engineering and security course at Mohawk College, but I started my technical journey when my cousin introduced me to coding in Turing.<br>
-<br>
-💼 Level 3 technician for municipal government's interal IT department.<br>
-💡 I love to take an experiment and see where my ideas take me.<br>
-🔒 I spend much of my free time learning about information secuity.<br>
-⌨️ My first programming language was Turing.<br>
-<br>
-
-<a href="#">
-  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=matthewwaldeck&exclude_repo=mwaldeck-stats&langs_count=7"/>
-</a>
+<div align=left>
+  
+  ### The Basics
+  📖 Network Engineering and Security at Mohawk College.<br>
+  💼 Level 3 technician for municipal government's interal IT department.<br>
+  💡 I love to take an experiment and see where my ideas take me.<br>
+  🔒 I spend much of my free time learning about information secuity.<br>
+  ⌨️ My first programming language was Turing.<br>
+  <br>
+</div>
 
 ### What I'm up to
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the stats pane. -->
