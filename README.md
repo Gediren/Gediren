@@ -5,7 +5,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 <a href="#">
   <!-- Remove "&layout=compact" to switch to list view. This will likely look better once the list becomes longer. -->
   <!-- Add "&langs_count=x" to specify the number of languages displayed, where x is the number of languages. -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gediren&layout=compact" />
+  <img align="right" src="https://gediren-stats.vercel.app/api/top-langs?username=Gediren&langs_count=5" />
 </a>
 
 ### What I'm up to now
@@ -15,7 +15,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 📚 <b>What I'm reading: </b>Battle Angel Alita<br>
 🎮 <b>What I'm playing: </b>Factorio<br>
 📺 <b>What I'm watching: </b>Doctor Who<br>
-🎵 <b>I've been listening to: </b>Taylor Swift<br>
+🎵 <b>I've been listening to: </b>My rock playlist<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
 
 
