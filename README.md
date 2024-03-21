@@ -1,5 +1,10 @@
-## About Me
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gediren&show_icons=true"/>
+</a>
+
+### About Me
 Hi there! I'm a graduate of the network engineering and security course at Mohawk College, with a little experience with basic coding. All of my projects and exercises will be stored here, much of it private and archival in nature. Things like my scripts repo, however, will be left public in the hopes that someone might find them useful.<br>
+<br>
 <br>
 
 <a href="#">
