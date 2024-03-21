@@ -5,7 +5,7 @@ Hi there! I'm a graduate of the network engineering and security course at Mohaw
 <a href="#">
   <!-- Remove "&layout=compact" to switch to list view. This will likely look better once the list becomes longer. -->
   <!-- Add "&langs_count=x" to specify the number of languages displayed, where x is the number of languages. -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gediren&langs_count=5" />
+  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=Gediren&exclude_repo=mwaldeck-stats&langs_count=7" />
 </a>
 
 ### What I'm up to now
