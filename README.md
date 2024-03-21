@@ -4,7 +4,7 @@
 
   <a href="#">
     <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true"/>
-  </a><br>
+  </a>
 </div>
 <br>
 <a href="#">
@@ -41,9 +41,6 @@
   <a href="https://github.com/matthewwaldeck/turing">
     <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=turing&theme=buefy" />
   </a>
-</div>
-<br>
-<div align=center>
   
   ## Useful Links
   
