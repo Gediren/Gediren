@@ -32,13 +32,6 @@
 🎵 <b>I've been listening to: </b>My rock playlist<br>
 🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
 
-### Useful Links
-<a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> - The best way to start coding.<br>
-<a href="http://compsci.ca/holtsoft/">Turing</a> - Fantastic first programming language.<br>
-<a href="https://code.visualstudio.com/">Visual Studio Code</a> - Fast and simple multi-language, multi-platform IDE.<br>
-<a href="https://leetcode.com">LeetCode</a> - Coding exercises to keep you sharp.<br>
-<br>
-
 <div align=center>
   
   ## Ongoing Projects
@@ -48,4 +41,16 @@
   <a href="https://github.com/matthewwaldeck/turing">
     <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=turing&theme=buefy" />
   </a>
+</div>
+<br>
+<div align=center>
+  
+  ## Useful Links
+  
+  | Link | Description |
+  | --: | :-- |
+  | <a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a> | The best way to start coding. |
+  | <a href="http://compsci.ca/holtsoft/">Turing</a> | Fantastic first programming language. |
+  | <a href="https://code.visualstudio.com/">Visual Studio Code</a> | Fast and simple multi-language, multi-platform IDE. |
+  | <a href="https://leetcode.com">LeetCode</a> | Coding exercises to keep you sharp. |
 </div>
