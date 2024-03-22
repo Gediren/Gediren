@@ -48,7 +48,7 @@
   </a>  
   <br>
   <br>
-  <a href="mailto:mattwaldeck@protonmail.com">:mailbox:Email|</a>
-  <a href="https://twitter.com/_Adm1nistrator">:bird:Twitter|</a>
+  <a href="mailto:mattwaldeck@protonmail.com">:mailbox:Email</a> | 
+  <a href="https://twitter.com/_Adm1nistrator">:bird:Twitter</a> | 
   <a href="https://github.com/matthewwaldeck/matthewwaldeck/issues">:octocat:Github</a>
 </div>
