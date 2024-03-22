@@ -18,7 +18,6 @@
   💼 Level 3 technician for Norfolk County.<br>
   💡 I love to take an experiment and see where my ideas take me.<br>
   ⌨️ My first programming language was Turing.<br>
-  <br>
   ### What I'm up to
   💻 <b>Currently working on: </b>Reorganizing my projects.<br>
   💡 <b>What I'm learning about: </b>Networking and network security<br>
@@ -27,7 +26,6 @@
   📺 <b>What I'm watching: </b>Doctor Who<br>
   🎵 <b>I've been listening to: </b>My rock playlist<br>
   🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
-  <br>
   ### Useful Links
   🍎 The best way to start coding | <a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a><br>
   🥇 Fantastic first programming language | <a href="http://compsci.ca/holtsoft/">Turing</a><br>
