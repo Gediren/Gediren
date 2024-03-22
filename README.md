@@ -12,7 +12,7 @@
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the stats pane. -->
 <div align=left>
   <a href="#">
-    <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true&rank_icon=percentile&hide=prs"/>
+    <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true&rank_icon=percentile&hide=prs,contribs"/>
   </a>
   
   ### Background
