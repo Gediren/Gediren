@@ -13,16 +13,11 @@
     <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true&rank_icon=percentile&hide=prs,contribs"/>
   </a>
   
-  ### Background
-  📖 Network Engineering and Security at Mohawk College.<br>
-  💼 Level 3 technician for Norfolk County.<br>
-  💡 I love to take an experiment and see where my ideas take me.<br>
-  ⌨️ My first programming language was Turing.<br>
   ### What I'm up to
-  💻 <b>Currently working on: </b>Reorganizing my projects.<br>
+  💻 <b>Currently working on: </b>Homelab projects.<br>
   💡 <b>What I'm learning about: </b>Networking and network security<br>
   📚 <b>What I'm reading: </b>Battle Angel Alita<br>
-  🎮 <b>What I'm playing: </b>Factorio<br>
+  🎮 <b>What I'm playing: </b>Besiege<br>
   📺 <b>What I'm watching: </b>Doctor Who<br>
   🎵 <b>I've been listening to: </b>My rock playlist<br>
   🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
@@ -41,9 +36,6 @@
   <a href="https://github.com/matthewwaldeck/astroblaster">
     <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=astroblaster&theme=buefy" />
   </a>
-  <a href="https://github.com/matthewwaldeck/turing">
-    <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=turing&theme=buefy" />
-  </a>  
   <br>
   <br>
   <a href="mailto:mattwaldeck@protonmail.com">:mailbox:Email</a> | 
