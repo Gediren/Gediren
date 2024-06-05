@@ -14,8 +14,8 @@
   </a>
   
   ### What I'm up to
-  💻 <b>Currently working on: </b>Homelab projects.<br>
-  💡 <b>What I'm learning about: </b>Networking and network security<br>
+  💻 <b>Currently working on: </b>A new Windows utility called "Squeak"<br>
+  💡 <b>What I'm learning about: </b>Networking and security<br>
   📚 <b>What I'm reading: </b>Battle Angel Alita<br>
   🎮 <b>What I'm playing: </b>Besiege<br>
   📺 <b>What I'm watching: </b>Doctor Who<br>
@@ -35,6 +35,9 @@
   ## Ongoing Projects
   <a href="https://github.com/matthewwaldeck/astroblaster">
     <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=astroblaster&theme=buefy" />
+  </a>
+  <a href="https://github.com/matthewwaldeck/squeak">
+    <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=squeak&theme=buefy" />
   </a>
   <br>
   <br>
